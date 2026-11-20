@@ -1,0 +1,122 @@
+[
+  {
+    "count_adults": 2,
+    "count_children": 0,
+    "start_date": "01.09",
+    "nights": 7,
+    "price_per_day": null,
+    "remarks": "су в номере, олимпийская деревня или рядом"
+  },
+  {
+    "count_adults": 3,
+    "count_children": 3,
+    "start_date": "20.07",
+    "nights": 11,
+    "price_per_day": null,
+    "remarks": "недорогое жилье, недалеко от моря, 3-местный и 2-местный эконом, возраст детей 2,9,11 лет"
+  },
+  {
+    "count_adults": 2,
+    "count_children": 0,
+    "start_date": "17.07",
+    "nights": 11,
+    "price_per_day": null,
+    "remarks": "2х местный номер, с удобствами"
+  },
+  {
+    "count_adults": null,
+    "count_children": null,
+    "start_date": "20.06",
+    "nights": 8,
+    "price_per_day": null,
+    "remarks": "3 местный номер, недалеко от моря"
+  },
+  {
+    "count_adults": 2,
+    "count_children": 2,
+    "start_date": "01.07",
+    "nights": null,
+    "price_per_day": null,
+    "remarks": "семья 4 человека, 2 взрослых, дети 10 и 3 года, 3-х местный с доп. местом, поближе к морю, недорого"
+  },
+  {
+    "count_adults": 3,
+    "count_children": 0,
+    "start_date": "04.08",
+    "nights": 10,
+    "price_per_day": null,
+    "remarks": "свои санитарные узлы, балкон, не дальше 10 мин до моря"
+  },
+  {
+    "count_adults": 2,
+    "count_children": 0,
+    "start_date": "07.08",
+    "nights": 7,
+    "price_per_day": 1000,
+    "remarks": "недалеко от моря, эконом класс"
+  },
+  {
+    "count_adults": 2,
+    "count_children": 1,
+    "start_date": "10.08.2018",
+    "nights": 16,
+    "price_per_day": null,
+    "remarks": "Лазаревское"
+  },
+  {
+    "count_adults": 2,
+    "count_children": 1,
+    "start_date": "15.08",
+    "nights": 8,
+    "price_per_day": null,
+    "remarks": ""
+  },
+  {
+    "count_adults": 2,
+    "count_children": 3,
+    "start_date": "20.09",
+    "nights": 11,
+    "price_per_day": null,
+    "remarks": "на берегу моря"
+  },
+  {
+    "count_adults": 2,
+    "count_children": 0,
+    "start_date": "24.07",
+    "nights": 14,
+    "price_per_day": null,
+    "remarks": ""
+  },
+  {
+    "count_adults": 2,
+    "count_children": 2,
+    "start_date": "08.08",
+    "nights": 14,
+    "price_per_day": null,
+    "remarks": "рядом с морем"
+  },
+  {
+    "count_adults": 2,
+    "count_children": 2,
+    "start_date": "08.07",
+    "nights": 6,
+    "price_per_day": null,
+    "remarks": "эконом класс, с 8 по 14 июля, 2 взрослых и 2 ребенка, близость к морю, наличие магазина, бассейн, дети 8 и 13 лет"
+  },
+  {
+    "count_adults": 1,
+    "count_children": 0,
+    "start_date": "10.07",
+    "nights": 10,
+    "price_per_day": null,
+    "remarks": "рядом с морем, эконом-класс, кондиционер, женщина"
+  },
+  {
+    "count_adults": 2,
+    "count_children": 2,
+    "start_date": "29.06.19",
+    "nights": null,
+    "price_per_day": null,
+    "remarks": "Лазаревское"
+  }
+]
