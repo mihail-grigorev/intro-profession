@@ -1,5 +1,8 @@
 .env
+.venv/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
-.vscode/
+build_demo_nb.py
+build_work_nb.py
+llm_work_task2.ipynb
